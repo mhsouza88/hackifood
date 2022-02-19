@@ -1,7 +1,11 @@
+import Menu from './components/Menu';
+import StylesGlobal  from './styles/GlobalStyles.jsx'
+
 export function App() {
   return (
-    <div className="App">
-      <h1>Hello HackIfood</h1> 
-    </div> 
+    <div>
+      <StylesGlobal />
+      <Menu/>
+    </div>
   ); 
 } 
