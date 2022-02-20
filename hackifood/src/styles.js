@@ -24,6 +24,11 @@ export const DualButtonsDisposition = styled.div`
   height: 30%;
 `;
 
+export const AppStyle = styled.div`
+  display: flex;
+  flex-direction: row;
+`;
+
 export const MainBodyHeaderStyle = styled.div`
   display: flex;
   flex-direction: row;

@@ -1,6 +1,6 @@
 import Menu from './components/Menu';
 import StylesGlobal  from './styles/GlobalStyles.jsx'
-import {RightMessagesContainer, MainBodyContainer, MainBodyHeaderStyle,MainBodyContentStyle, InformationDispositionStyle, DualButtonsDisposition} from './styles.js'
+import {AppStyle,RightMessagesContainer, MainBodyContainer, MainBodyHeaderStyle,MainBodyContentStyle, InformationDispositionStyle, DualButtonsDisposition} from './styles.js'
 import {Button, Layout} from 'antd';
 import OpportunitesMessage from './components/OpportunitesMessage'
 import { useEffect, useState } from 'react';
@@ -22,11 +22,11 @@ export function App() {
     if(!showModal){
     setTimeout(() => {
       setShowModal(true)
-    }, 6000)}
+    }, 20000)}
 }, [showModal])
 
   return (
-    <div style={{display: 'flex', flexDirection: 'row',}}>
+    <AppStyle >
       <StylesGlobal />
       <Layout  style={{  display: 'flex', overflowY: 'scroll',flexDirection: 'row', justifyContent: 'flex-start',height: '100vh', width: '100vw', background: '#f2f2f2', padding: '0 5rem 0 0' }} >
       <Menu/>
@@ -89,6 +89,6 @@ export function App() {
         </MainBodyContainer>
       </Layout>
       
-    </div>
+    </AppStyle>
   );
 }
