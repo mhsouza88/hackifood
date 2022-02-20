@@ -1,10 +1,10 @@
 import "./styles/antd.css";
 import Menu from "./components/Menu";
 import StylesGlobal from "./styles/GlobalStyles.jsx";
-import UpCard1 from "./components/UpCards/UpCard1.jsx";
 import Top5Card from "./components/Top5Card/Top5Card.jsx";
-import { Layout, message } from "antd";
-import { Header } from "antd/lib/layout/layout";
+import { AlignCards } from './styles/AppCSS.jsx'
+import { Layout } from "antd";
+import AlignUpCards from './components/UpCards/AlignUpCards.jsx'
 
 import { CompareIngredient } from "./components/CompareIngredient";
 import { SearchIngredientsPeriod } from "./components/SearchIngredientsPeriod";
@@ -13,7 +13,6 @@ import { MostSearchedIngredients } from "./components/MostSearchedIngredients";
 export function App() {
   return (
     <div>
-      <StylesGlobal />
       <Layout
         style={{
           display: "flex",
@@ -23,6 +22,7 @@ export function App() {
           background: "#fff",
         }}
       >
+        <StylesGlobal />
         <Menu />
         <div style={{ display: "flex", flexDirection: "column", gap: '32px' }}>
           <div
@@ -31,9 +31,10 @@ export function App() {
               flexDirection: "row"
             }}
           >
-            <UpCard1 />
-            <Top5Card />
+            {/* <AlignCards /> */}
+            <AlignUpCards />
           </div>
+          <Top5Card />
           <CompareIngredient />
           <SearchIngredientsPeriod />
           <MostSearchedIngredients />

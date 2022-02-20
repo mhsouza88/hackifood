@@ -33,7 +33,7 @@ const data = [
 
 export function PeriodsChart() {
   return (
-    <ResponsiveContainer width={960} height={200}>
+    <ResponsiveContainer width="100%" height={200}>
       <AreaChart
         data={data}
         margin={{

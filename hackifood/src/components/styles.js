@@ -26,10 +26,10 @@ export const Container = styled.div`
   width: fit-content;
   height: fit-content;
   min-height: calc(100% - 100px);
-  min-width: 18.75rem;
+  min-width: 15.75rem;
   z-index: 1;
   background-color: var(--white);
-  margin: 0;
+  margin: 0 3rem 0 0;
   padding: 0;
   list-style: none;
   scrollbar-width: thin;

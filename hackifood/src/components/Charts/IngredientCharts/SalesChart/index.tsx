@@ -14,7 +14,7 @@ const data = [
     uv: 100,
   },
   {
-    name: "Ham. Bovino",
+    name: "Arroz",
     pv: 100,
     uv: 100,
   },
@@ -24,12 +24,12 @@ const data = [
     uv: 100,
   },
   {
-    name: "Ham. de Feijão",
+    name: "Feijão",
     pv: 50,
     uv: 100,
   },
   {
-    name: "Ham. de Frango",
+    name: "Frango",
     pv: 100,
     uv: 50,
   },
@@ -42,7 +42,7 @@ const data = [
 
 export function SalesChart() {
   return (
-    <ResponsiveContainer width={960} height={300}>
+    <ResponsiveContainer width="100%" height={300}>
       <BarChart data={data}>
         <Legend
           verticalAlign="top"
@@ -68,7 +68,12 @@ export function SalesChart() {
           barSize={32}
           radius={[100, 100, 0, 0]}
         />
-        <XAxis dataKey="name" color="#A8A8A8" tickLine={false} dy={12} />
+        <XAxis
+          dataKey="name"
+          color="#A8A8A8"
+          tickLine={false}
+          dy={12}
+        />
       </BarChart>
     </ResponsiveContainer>
   );
