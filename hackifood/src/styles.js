@@ -2,8 +2,8 @@ import styled from "styled-components";
 
 export const RightMessagesContainer = styled.div`
   display: flex;
+  width: 100%;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
   height: fit-content;
   width: fit-content;
@@ -40,6 +40,10 @@ export const MainBodyContentStyle = styled.div`
   height: fit-content;
   width: 100%;
   padding-left: 3rem;
+
+  @media (max-width: 1945px) {
+    flex-direction: column;
+  }
 `;
 
 export const InformationDispositionStyle = styled.div`

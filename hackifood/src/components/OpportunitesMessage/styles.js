@@ -23,4 +23,8 @@ export const MessageContainer = styled.div`
       font-weight: 800;
     }
   }
+
+  @media (max-width: 1945px) {
+    width: 100%;
+  }
 `;

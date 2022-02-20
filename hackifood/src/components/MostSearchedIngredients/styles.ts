@@ -1,5 +1,9 @@
 import styled from 'styled-components';
 
+export const Container = styled.div`
+
+`;
+
 export const Section = styled.section`
   h1 {
     font-size: 22px;
@@ -29,5 +33,5 @@ export const FiltersWrapper = styled.section`
 `;
 
 export const ChartWrapper = styled.div`
-  width: 367px;
+  width: 100%;
 `;
