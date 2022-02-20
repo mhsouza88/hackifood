@@ -40,7 +40,7 @@ const data = [
   },
 ];
 
-export function FoodCharts() {
+export function SalesChart() {
   return (
     <ResponsiveContainer width={960} height={300}>
       <BarChart data={data}>

@@ -19,16 +19,14 @@ export const Section = styled.section`
 export const FiltersWrapper = styled.section`
   display: flex;
   flex-direction: column;
-  
+
+  margin-bottom: 102px;
+
   .wrapper-search {
     display: flex;
 
     > div + div {
       margin-left: 24px;
     }
-  }
-
-  .tags-wrapper {
-    margin-top: 22px;
   }
 `;
