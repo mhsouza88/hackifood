@@ -4255,6 +4255,9 @@ a.ant-btn-sm {
 .ant-picker-calendar-rtl.ant-picker-calendar-full .ant-picker-panel .ant-picker-calendar-date-content {
 	text-align: right;
 }
+.ant-card-body {
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+}
 .ant-card {
 	box-sizing: border-box;
 	margin: 0;
@@ -7913,6 +7916,9 @@ _:-ms-fullscreen .ant-picker-range-wrapper .ant-picker-year-panel .ant-picker-ce
 }
 .ant-form-item-has-warning .has-feedback {
 	color: var(--warning);
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+	border: 0 !important;
 }
 .ant-form-item-has-warning.ant-form-item-has-feedback .ant-form-item-children-icon {
 	color: var(--warning);
@@ -22630,7 +22636,7 @@ tr.ant-table-expanded-row .ant-descriptions-view table {
 	white-space: nowrap;
 	background: #fafafa;
 	border: 1px solid #d9d9d9;
-	border-radius: 8px;
+	border-radius: 10px;
 	opacity: 1;
 	transition: all 0.3s;
 }
