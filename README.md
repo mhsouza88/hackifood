@@ -78,7 +78,7 @@ $ yarn dev
       <img src="https://avatars.githubusercontent.com/u/61118233?v=4" width="150px" alt="Alexandre Costa"/>
       <br />
       <sub><b>Alexandre Costa</b></sub><br/><br/>
-      <sub><a href="/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=informational"></a></sub>
+      <sub><a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=informational"></a></sub>
       <br />
     </td>
       <td align="center"><a href="https://github.com/allan-gilber" target="_blank">
