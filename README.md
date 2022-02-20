@@ -36,7 +36,7 @@ Nós somos o Time 2 do Hack iFood, e essa é a nossa proposta.
 
 <h2> 🖼️ﾠPreview</h2>
 <p align="center">
-  [BREVE]
+  <img src="https://user-images.githubusercontent.com/88038506/154849212-280ac222-bcb3-4730-87ab-34172e215df2.gif" alt="Preview">
   </p>
 <br/>
  
