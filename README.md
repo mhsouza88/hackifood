@@ -84,7 +84,7 @@ $ yarn dev
       <td align="center"><a href="https://github.com/allan-gilber" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/88056093?v=4" width="150px" alt="Allan Gilber"/>
       <br />
-      <sub><b>Allan Gilber</b></sub><br/><br/>
+      <sub><b>Allan Gilber #MeContrataiFood</b></sub><br/><br/>
       <sub><a href="https://www.linkedin.com/in/allan-gilber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=informational"></a></sub>
       <br />
     </td>
