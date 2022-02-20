@@ -12,6 +12,7 @@ import { MostSearchedIngredients } from "./components/MostSearchedIngredients";
 
 export function App() {
   return (
+    <div>
       <Layout
         style={{
           display: "flex",
@@ -21,6 +22,7 @@ export function App() {
           background: "#fff",
         }}
       >
+        <StylesGlobal />
         <Menu />
         <div style={{ display: "flex", flexDirection: "column", gap: '32px' }}>
           <div
@@ -29,7 +31,7 @@ export function App() {
               flexDirection: "row"
             }}
           >
-            <AlignCards>
+            {/* <AlignCards /> */}
             <AlignUpCards />
           </div>
           <Top5Card />

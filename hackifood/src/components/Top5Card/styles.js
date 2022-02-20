@@ -6,10 +6,9 @@ export const MainBox = styled.div `
     align-items: center;
     text-align: justify;
     border-radius: 0.5rem;
-    width: 20rem;
-    height: 27rem;
+    width: 100%;
+    height: 312px;
     padding: 1.5rem 1rem;
-    margin: 2rem 4rem;
     -webkit-box-shadow: 0px 0px 14px -3px rgba(0,0,0,0.21); 
     box-shadow: 0px 0px 14px -3px rgba(0,0,0,0.21);
 
