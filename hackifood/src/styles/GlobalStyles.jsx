@@ -1,11 +1,12 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
   * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     outline: 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
   }
   :root {
      /* Transições de viewport */
@@ -26,6 +27,8 @@ export default createGlobalStyle`
     --warning: 'red';
     --btn-text: 'black';
     --label: #393939;
-    --white: #ffff;
+    --white: #ffffff || #f7f7f7;
+    --menu-text: #828282;
+    --red-text: #EA1D2C;
   }
-`
+`;
