@@ -6,6 +6,10 @@
   <a href="https://github.com/mhsouza88/hackifood/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=informational"></a>
  </p>
  
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/88038506/154866830-fe94f481-769d-4297-b285-afe996f11da2.png">
+ </p>
+ 
  <h2> ⚛️ﾠSobre</h2>
  <p>Projeto feito durante a 3ª edição do <a href="https://hackifood.com/" target="_blank">Hack iFood</a>. Como podemos usar a IA de reconhecimento de ingredientes para ajudar os restaurantes a aumentar sua performance de vendas? Talvez, uma grande empresa consiga ter orçamento para realizar uma pesquisa e entender quem é seu público, e com isso, ainda realizar ações para multiplicar seus números de venda. Mas e o João, dono da Hamburgueria da Esquina? Foi justamente pensando nele que nós chegamos em um consenso. Para entregar uma boa experiência para o cliente final, a rede de apoio ao parceiro do iFood deve ser robusta. 
   
@@ -23,6 +27,12 @@ Nós somos o Time 2 do Hack iFood, e essa é a nossa proposta.
   <p>- <a href="https://www.linkedin.com/in/mhsouza88/" target="_blank">Maria Helena Souza</a> (Dev Fullstack)</p>
  <p>- <a href="https://www.linkedin.com/in/paulogustavocm/" target="_blank">Paulo Gustavo</a> (UI Designer)</p>
 <br/>
+
+ <h2> 🎥ﾠPitch do Projeto</h2>
+ 
+https://user-images.githubusercontent.com/88038506/154866092-817097f2-0615-41c0-9620-8aea9872d5de.mp4
+
+<br />
  
  <h2> 🔗ﾠMVP</h2>
  <p>- <a href="https://hackifood.netlify.app/" target="_blank">Demonstração ao vivo</a></p><br/>
@@ -30,8 +40,7 @@ Nós somos o Time 2 do Hack iFood, e essa é a nossa proposta.
 <h2> 🛠️ﾠTecnologias</h2>
 <p> - <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a>: React é uma biblioteca JavaScript para construção de interfaces de usuário.</p>
 <p> - <a href="https://styled-components.com/docs" target="_blank">Styled Components</a>: Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que permite escrever códigos CSS dentro do Javascript.</p>
-
-<p> - <a href=https://ant.design/docs/react/introduce" target="_blank">Ant-Design</a>: A design system for enterprise-level products. Create an efficient and enjoyable work experience.</p>
+<p> - <a href="https://ant.design/docs/react/introduce" target="_blank">Ant-Design</a>: Um sistema de design para produtos de nível empresarial. Cria uma experiência de trabalho eficiente e agradável.</p>
 <br/>
 
 <h2> 🖼️ﾠPreview</h2>
