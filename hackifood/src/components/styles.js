@@ -23,13 +23,13 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  width: fit-content;
+  width: 15vw;
   height: fit-content;
   min-height: calc(100% - 100px);
-  min-width: 18.75rem;
+  min-width: fit-content;
   z-index: 1;
   background-color: var(--white);
-  margin: 0;
+  margin: 0 3rem 0 0;
   padding: 0;
   list-style: none;
   scrollbar-width: thin;
@@ -97,7 +97,8 @@ export const MenuItem = styled.div`
       color: var(--red-text);
     }
     img {
-      filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(4);
+      filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg)
+        saturate(600%) contrast(4);
     }
   }
   ${(props) =>
