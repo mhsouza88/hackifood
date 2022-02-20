@@ -29,7 +29,7 @@ export const Container = styled.div`
   min-width: fit-content;
   z-index: 1;
   background-color: var(--white);
-  margin: 0;
+  margin: 0 3rem 0 0;
   padding: 0;
   list-style: none;
   scrollbar-width: thin;

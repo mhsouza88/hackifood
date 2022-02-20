@@ -8,6 +8,8 @@ import Modal from 'antd/lib/modal/Modal';
 import "./styles/antd.css";
 import UpCard1 from "./components/UpCards/UpCard1.jsx";
 import Top5Card from "./components/Top5Card/Top5Card.jsx";
+import { AlignCards } from './styles/AppCSS.jsx'
+import AlignUpCards from './components/UpCards/AlignUpCards.jsx'
 
 import { CompareIngredient } from "./components/CompareIngredient";
 import { SearchIngredientsPeriod } from "./components/SearchIngredientsPeriod";
@@ -73,8 +75,7 @@ export function App() {
               flexDirection: "row"
             }}
           >
-            <UpCard1 />
-            <Top5Card />
+            <AlignUpCards />
           </MainBodyHeaderStyle>
           <MainBodyContentStyle>
             <InformationDispositionStyle>
