@@ -60,10 +60,10 @@ $ gh repo clone mhsouza88/hackifood
 $ cd ./hackifood
 
 # Instale as dependências
-$ npm install
+$ yarn
 
 # Para iniciar o projeto
-$ npm run start
+$ yarn dev
 
 # O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
 ```
