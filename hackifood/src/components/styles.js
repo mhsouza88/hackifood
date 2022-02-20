@@ -23,10 +23,10 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  width: fit-content;
+  width: 15vw;
   height: fit-content;
   min-height: calc(100% - 100px);
-  min-width: 18.75rem;
+  min-width: fit-content;
   z-index: 1;
   background-color: var(--white);
   margin: 0;
@@ -96,6 +96,10 @@ export const MenuItem = styled.div`
     span {
       color: var(--red-text);
     }
+    img {
+      filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg)
+        saturate(600%) contrast(4);
+    }
   }
   ${(props) =>
     props.closeMenu &&
@@ -115,7 +119,7 @@ export const OpenStoreWarning = styled.div`
   justify-content: center;
   align-items: center;
   height: 8vh;
-  margin: 3% 4% 8% 4%;
+  margin: 7% 4% 8% 4%;
   padding: 0 4%;
   background-color: #ffffff;
   box-shadow: 0px 4px 28px rgba(51, 51, 51, 0.2);
@@ -152,7 +156,7 @@ export const LogoImage = styled.div`
   padding: 10%;
   margin-top: 10%;
   img {
-    height: 100%;
+    height: 2.5rem;
   }
   h4 {
     font-size: 1.2rem;
