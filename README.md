@@ -21,8 +21,8 @@ Nós somos o Time 2 do Hack iFood, e essa é a nossa proposta.
  <p>- <a href="/" target="_blank">BREVE</a></p><br/>
 
 <h2> 🛠️ﾠTecnologias</h2>
-[BREVE]
-<br/>
+<p> - <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a>: React é uma biblioteca JavaScript para construção de interfaces de usuário.</p>
+<p> - <a href="https://styled-components.com/docs" target="_blank">Styled Components</a>: Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que permite escrever códigos CSS dentro do Javascript.</p>
 <br/>
 
 <h2> 🖼️ﾠPreview</h2>
