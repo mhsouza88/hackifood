@@ -40,12 +40,12 @@ export function PeriodsChart() {
           top: 10,
           right: 30,
           left: 0,
-          bottom: 0,
+          bottom: 0
         }}
       >
-        <CartesianGrid strokeDasharray="3 3" />
-        <XAxis dataKey="name" />
-        <YAxis tickLine={false} />
+        <CartesianGrid strokeDasharray="3 3" opacity={0.5} />
+        <XAxis dy={10} dataKey="name" tickLine={false} axisLine={false} />
+        <YAxis dx={-24} tickLine={false} axisLine={false} />
         <defs>
           <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
             <stop offset="5%" stopColor="#EA1D2C" stopOpacity={0.4}/>
