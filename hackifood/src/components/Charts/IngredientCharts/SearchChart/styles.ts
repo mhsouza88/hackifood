@@ -42,5 +42,5 @@ export const Progress = styled.div<ContainerProps>`
     text-overflow: ellipsis;
   }
 
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 `;
