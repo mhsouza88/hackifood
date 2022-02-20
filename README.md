@@ -25,7 +25,7 @@ Nós somos o Time 2 do Hack iFood, e essa é a nossa proposta.
 <br/>
  
  <h2> 🔗ﾠMVP</h2>
- <p>- <a href="/" target="_blank">BREVE</a></p><br/>
+ <p>- <a href="https://hackifood.netlify.app/" target="_blank">Demonstração ao vivo</a></p><br/>
 
 <h2> 🛠️ﾠTecnologias</h2>
 <p> - <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a>: React é uma biblioteca JavaScript para construção de interfaces de usuário.</p>
