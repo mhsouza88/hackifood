@@ -1,6 +1,6 @@
 import { Card, Select, Typography, Divider, Tag } from 'antd';
 
-import { PeriodsChart } from '../Charts';
+import { PeriodsChart, SearchChart } from '../Charts';
 import { SearchInput } from '../SearchInput';
 
 import { Section, FiltersWrapper } from './styles';
@@ -38,3 +38,4 @@ export function SearchIngredientsPeriod() {
     </Card>
   )
 }
+

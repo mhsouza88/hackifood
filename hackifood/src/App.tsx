@@ -8,6 +8,7 @@ import { Header } from "antd/lib/layout/layout";
 
 import { CompareIngredient } from "./components/CompareIngredient";
 import { SearchIngredientsPeriod } from "./components/SearchIngredientsPeriod";
+import { MostSearchedIngredients } from "./components/MostSearchedIngredients";
 
 export function App() {
   return (
@@ -35,6 +36,7 @@ export function App() {
           </div>
           <CompareIngredient />
           <SearchIngredientsPeriod />
+          <MostSearchedIngredients />
         </div>
       </Layout>
     </div>

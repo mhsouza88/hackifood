@@ -1,19 +1,16 @@
 import styled from 'styled-components';
 
 export const Section = styled.section`
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  h1 {
+    font-size: 22px;
+    line-height: 27px;
 
-  .title {
-    h1 {
-      font-size: 26px;
-
-      span {
-        color: #EA1D2C;
-      }
+    span {
+      color: #EA1D2C;
     }
   }
+
+  margin-bottom: 47px;
 `;
 
 export const FiltersWrapper = styled.section`
@@ -29,4 +26,8 @@ export const FiltersWrapper = styled.section`
       margin-left: 24px;
     }
   }
+`;
+
+export const ChartWrapper = styled.div`
+  width: 367px;
 `;
