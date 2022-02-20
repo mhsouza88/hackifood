@@ -14,8 +14,15 @@
   Sim, a solução aponta para o João, através de uma modal informações como "A busca por hambúrguer em sua região aumentou consideravelmente na última hora", direcionando ele para uma tela onde ele poderá liberar cupom de desconto para tentar alcançar as pessoas no exato momento em que elas estão procurando pela comida dele. O dashboard ainda apresenta relatórios que possuem filtros de tempo, permitindo que ele consulte e realize pesquisas quando quiser, seja comparando o número de procura por um ingrediente como comparando a venda de um prato do seu cardápio com o oferecido pelo mercado.
 
 Nós somos o Time 2 do Hack iFood, e essa é a nossa proposta.
-
 </p><br/>
+
+ <h2> 🤝ﾠTime [2]</h2>
+ <p>- <a href="/" target="_blank">Alexandre Costa</a> (Dev Front-end)</p>
+ <p>- <a href="https://www.linkedin.com/in/allan-gilber/" target="_blank">Allan Gilber</a> (Dev Fullstack)</p>
+ <p>- <a href="https://www.linkedin.com/in/carmem-araujo/" target="_blank">Carmen Araújo</a> (Negócios)</p>
+  <p>- <a href="https://www.linkedin.com/in/mhsouza88/" target="_blank">Maria Helena Souza</a> (Dev Fullstack)</p>
+ <p>- <a href="https://www.linkedin.com/in/paulogustavocm/" target="_blank">Paulo Gustavo</a> (UI Designer)</p>
+<br/>
  
  <h2> 🔗ﾠMVP</h2>
  <p>- <a href="/" target="_blank">BREVE</a></p><br/>
