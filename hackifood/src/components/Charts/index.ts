@@ -1,1 +1,2 @@
-export { FoodCharts } from './FoodCharts';
+export { SalesChart } from './IngredientCharts/SalesChart';
+export { PeriodsChart } from './IngredientCharts/PeriodsChart';
