@@ -21,7 +21,7 @@ Nós somos o Time 2 do Hack iFood, e essa é a nossa proposta.
 </p><br/>
 
  <h2> 🤝ﾠTime [2]</h2>
- <p>- <a href="/" target="_blank">Alexandre Costa</a> (Dev Front-end)</p>
+ <p>- <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">Alexandre Costa</a> (Dev Front-end)</p>
  <p>- <a href="https://www.linkedin.com/in/allan-gilber/" target="_blank">Allan Gilber</a> (Dev Fullstack)</p>
  <p>- <a href="https://www.linkedin.com/in/carmem-araujo/" target="_blank">Carmen Araújo</a> (Negócios)</p>
   <p>- <a href="https://www.linkedin.com/in/mhsouza88/" target="_blank">Maria Helena Souza</a> (Dev Fullstack)</p>
