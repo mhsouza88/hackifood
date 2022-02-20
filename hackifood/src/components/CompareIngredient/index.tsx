@@ -8,7 +8,7 @@ import { Section, FiltersWrapper } from './styles';
 
 export function CompareIngredient() {
   return (
-    <Card style={{ width: 1012 }}>
+    <Card style={{ width: 1012,marginBottom: '3rem' }} >
       <Section>
         <div className="title">
           <h1>Comparativo de vendas <span>por Ingrediente</span></h1>

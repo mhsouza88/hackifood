@@ -7,6 +7,7 @@ export default createGlobalStyle`
     outline: 0;
     box-sizing: border-box;
     flex-shrink: 0;
+    
   }
   :root {
      /* Transições de viewport */
@@ -27,7 +28,8 @@ export default createGlobalStyle`
     --warning: 'red';
     --btn-text: 'black';
     --label: #393939;
-    --white: #ffffff || #f7f7f7;
+    --white:  #F6F6F6;
+    --background-white: #ffffff;
     --menu-text: #828282;
     --red-text: #EA1D2C;
   }

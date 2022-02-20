@@ -7,7 +7,7 @@ import { Section, FiltersWrapper } from './styles';
 
 export function SearchIngredientsPeriod() {
   return (
-    <Card style={{ width: 1012 }}>
+    <Card style={{ width: 1012,marginBottom: '3rem'  }}>
       <Section>
         <div className="title">
           <h1><span>Busca de Ingredientes</span> por Período</h1>
